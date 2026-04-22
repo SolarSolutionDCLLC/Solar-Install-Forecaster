@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Force HTML files to always use standard line endings
+*.html text eol=lf
+*.md text eol=lf
